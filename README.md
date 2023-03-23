@@ -1,3 +1,5 @@
+![Screenshot _home](https://user-images.githubusercontent.com/82724814/227295016-4d81fcf1-d7e3-4a77-b738-5bb2fb2d1a5e.jpg)
+
 # Clothing Shopping Website
 
 This is a simple clothing shopping website built using ReactJS, Stripe, and Strapi.
@@ -36,3 +38,5 @@ The following environment variables are required:
 ## Contributing
 
 - Contributions are welcome! Feel free to open an issue or submit a pull request.
+
+
