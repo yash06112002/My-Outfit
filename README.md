@@ -1,4 +1,7 @@
 ![Screenshot _home](https://user-images.githubusercontent.com/82724814/227295016-4d81fcf1-d7e3-4a77-b738-5bb2fb2d1a5e.jpg)
+![Screenshot_my_outfits_2](https://user-images.githubusercontent.com/82724814/227699958-3b576b33-d559-42a0-9593-6c440b6db89f.jpg)
+![Screenshot_my_outfits](https://user-images.githubusercontent.com/82724814/227699959-1f92a5d1-7b79-487b-836d-165d04284bef.jpg)
+![Screenshot_my_outfits_3](https://user-images.githubusercontent.com/82724814/227699955-cf0f96f7-cb0f-4bda-960e-8111990a27e1.jpg)
 
 # Clothing Shopping Website
 
